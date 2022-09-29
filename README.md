@@ -2,6 +2,10 @@
 
 I am Gabriel Amat 😃
 
+## Web Portfolio
+
+Visite o meu Portfolio clicando <a href="https://amat-48486.firebaseapp.com/">aqui</a> <----
+
 ## Languages / Frameworks
 <div>
    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
@@ -26,7 +30,7 @@ I am Gabriel Amat 😃
 
 ---
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50"> How to reach me **amat.gabriel0@gmail.com** 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50"> How to reach me amat.gabriel0@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
