@@ -3,7 +3,7 @@
 <h3>About me</h3>
 <li> ❤️ Love to writing code and learning new features</li>
 <li> 👨🏻‍💻 Graduated in Computer Science from Unip</li>
-<li> 💻 Some projects and designs taken from the internet and recreated in Flutter -> <a href="https://amat-48486.firebaseapp.com/">amat.com</a></li>
+<li> 💻 Check my website made in Flutter Web -> <a href="https://amat-48486.web.app/">amat.com</a></li>
 <li> 📬 Reach me anytime: <a>amat.gabriel0@gmail.com</a></li>
 <li>Visit my Linkedin: <a href="https://www.linkedin.com/in/gabriel-amat-65841418a/">Gabriel Amat</a></li>
 
