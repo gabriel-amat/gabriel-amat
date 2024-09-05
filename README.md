@@ -1,7 +1,7 @@
 <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> my name is Gabriel Amat</h2>
 
 <h3>About me</h3>
-<li> 👨🏻‍💻 Graduated in Computer Science from Unip</li>
+<li> 👨🏻‍💻 Bachelor's degree in Computer Science</li>
 <li> 💻 Check my website and other links -> <a href="https://bento.me/amat">bento.me</a></li>
 <li> 📬 Reach me anytime: <a>amat.gabriel0@gmail.com</a></li>
 <li>Visit my Linkedin: <a href="https://www.linkedin.com/in/gabriel-amat-65841418a/">Gabriel Amat</a></li>
